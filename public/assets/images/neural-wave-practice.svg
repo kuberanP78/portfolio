@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="100%" height="100%">
+  <rect width="600" height="600" fill="#131313"/>
+  
+  <!-- Outer Frame & Grid Line Markers -->
+  <rect x="15" y="15" width="570" height="570" fill="none" stroke="#262626" stroke-width="1"/>
+  
+  <!-- Glowing Green Neural Network / Data Wave Stream -->
+  <g filter="drop-shadow(0px 0px 12px rgba(24, 185, 120, 0.6))">
+    <!-- Curved Wave Lines -->
+    <path d="M 40 300 Q 150 150, 300 300 T 560 300" fill="none" stroke="#18B978" stroke-width="3" opacity="0.9"/>
+    <path d="M 40 320 Q 180 420, 320 280 T 560 250" fill="none" stroke="#18B978" stroke-width="2" opacity="0.7"/>
+    <path d="M 40 280 Q 120 200, 280 340 T 560 320" fill="none" stroke="#18B978" stroke-width="1.5" opacity="0.5"/>
+    <path d="M 40 250 Q 220 120, 350 250 T 560 280" fill="none" stroke="#18B978" stroke-width="2.5" opacity="0.8"/>
+  </g>
+
+  <!-- Node Dots & Connecting Mesh -->
+  <g fill="#18B978">
+    <circle cx="100" cy="240" r="4"/>
+    <circle cx="150" cy="220" r="5"/>
+    <circle cx="210" cy="300" r="6"/>
+    <circle cx="280" cy="340" r="5"/>
+    <circle cx="350" cy="250" r="7"/>
+    <circle cx="420" cy="290" r="4"/>
+    <circle cx="490" cy="270" r="6"/>
+    <circle cx="530" cy="310" r="4"/>
+  </g>
+
+  <g stroke="rgba(24, 185, 120, 0.3)" stroke-width="1">
+    <line x1="100" y1="240" x2="150" y2="220"/>
+    <line x1="150" y1="220" x2="210" y2="300"/>
+    <line x1="210" y1="300" x2="280" y2="340"/>
+    <line x1="280" y1="340" x2="350" y2="250"/>
+    <line x1="350" y1="250" x2="420" y2="290"/>
+    <line x1="420" y1="290" x2="490" y2="270"/>
+  </g>
+
+  <!-- Technical Overlay Corners -->
+  <text x="30" y="40" font-family="monospace" font-size="11" fill="#6E6E6E">• PRACTICE // 02</text>
+  <text x="460" y="40" font-family="monospace" font-size="11" fill="#6E6E6E">37.892° N [TENSOR]</text>
+</svg>

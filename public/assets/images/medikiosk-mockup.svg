@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <rect width="800" height="500" fill="#171717"/>
+  <rect x="20" y="20" width="760" height="460" fill="none" stroke="#2A2A2A" stroke-width="2"/>
+  
+  <!-- Kiosk Display Interface Mockup -->
+  <rect x="150" y="60" width="500" height="340" rx="8" fill="#111111" stroke="#18B978" stroke-width="2"/>
+  <rect x="180" y="90" width="440" height="40" fill="#262626"/>
+  <text x="200" y="115" font-family="sans-serif" font-weight="bold" font-size="16" fill="#F5F5F5">MEDIKIOSK // CLINICAL INTAKE</text>
+  <circle cx="590" cy="110" r="6" fill="#18B978"/>
+  
+  <!-- Vitals Cards -->
+  <rect x="180" y="150" width="130" height="100" fill="#171717" stroke="#2A2A2A"/>
+  <text x="195" y="180" font-family="monospace" font-size="12" fill="#A5A5A5">SPO2 RATE</text>
+  <text x="195" y="220" font-family="sans-serif" font-weight="bold" font-size="24" fill="#18B978">99%</text>
+
+  <rect x="335" y="150" width="130" height="100" fill="#171717" stroke="#2A2A2A"/>
+  <text x="350" y="180" font-family="monospace" font-size="12" fill="#A5A5A5">HEART RATE</text>
+  <text x="350" y="220" font-family="sans-serif" font-weight="bold" font-size="24" fill="#18B978">72 BPM</text>
+
+  <rect x="490" y="150" width="130" height="100" fill="#171717" stroke="#2A2A2A"/>
+  <text x="505" y="180" font-family="monospace" font-size="12" fill="#A5A5A5">TEMP</text>
+  <text x="505" y="220" font-family="sans-serif" font-weight="bold" font-size="24" fill="#18B978">98.6°F</text>
+
+  <!-- Waveform -->
+  <path d="M 180 320 Q 240 280, 280 320 T 380 320 T 480 320 T 620 320" fill="none" stroke="#18B978" stroke-width="3"/>
+  <text x="40" y="450" font-family="monospace" font-size="14" fill="#A5A5A5">HARDWARE-SOFTWARE TELEMETRY MOCKUP</text>
+</svg>

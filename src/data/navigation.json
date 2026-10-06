@@ -1,0 +1,79 @@
+[
+  {
+    "id": "screen_01",
+    "route": "/",
+    "title": "Home - Kuberan P Portfolio",
+    "dossier": "DOSSIER 01",
+    "label": "Home"
+  },
+  {
+    "id": "screen_02",
+    "route": "/about",
+    "title": "About & Education - Kuberan P Portfolio",
+    "dossier": "DOSSIER 02",
+    "label": "About"
+  },
+  {
+    "id": "screen_03",
+    "route": "/skills",
+    "title": "Skills & Technical Expertise - Kuberan P Portfolio",
+    "dossier": "DOSSIER 03",
+    "label": "Skills"
+  },
+  {
+    "id": "screen_04",
+    "route": "/projects",
+    "title": "Projects (Selected Work) - Kuberan P Portfolio",
+    "dossier": "DOSSIER 04",
+    "label": "Projects"
+  },
+  {
+    "id": "screen_05",
+    "route": "/experience",
+    "title": "Experience & Hackathons - Kuberan P Portfolio",
+    "dossier": "DOSSIER 05",
+    "label": "Experience"
+  },
+  {
+    "id": "screen_06",
+    "route": "/certifications",
+    "title": "Certifications & Achievements - Kuberan P Portfolio",
+    "dossier": "DOSSIER 06",
+    "label": "Certifications"
+  },
+  {
+    "id": "screen_07",
+    "route": "/contact",
+    "title": "Contact & Let's Connect - Kuberan P Portfolio",
+    "dossier": "DOSSIER 07",
+    "label": "Contact"
+  },
+  {
+    "id": "screen_08",
+    "route": "/resume",
+    "title": "Resume & Career Profile - Kuberan P Portfolio",
+    "dossier": "DOSSIER 08",
+    "label": "Resume"
+  },
+  {
+    "id": "screen_09",
+    "route": "/datalab",
+    "title": "Interactive Data Lab - Kuberan P Portfolio",
+    "dossier": "DOSSIER 09",
+    "label": "Data Lab"
+  },
+  {
+    "id": "screen_10",
+    "route": "/beyond-the-code",
+    "title": "Beyond the Code - Kuberan P Portfolio",
+    "dossier": "DOSSIER 10",
+    "label": "Beyond Code"
+  },
+  {
+    "id": "screen_11",
+    "route": "/projects/medikiosk",
+    "title": "MediKiosk Case Study - Kuberan P Portfolio",
+    "dossier": "CASE STUDY 01",
+    "label": "MediKiosk Case Study"
+  }
+]

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <rect width="800" height="500" fill="#111111"/>
+  <rect x="20" y="20" width="760" height="460" fill="none" stroke="#2A2A2A" stroke-width="2"/>
+  
+  <!-- Cricket Bat Graphic -->
+  <g transform="rotate(-25 350 250)">
+    <!-- Handle -->
+    <rect x="180" y="220" width="140" height="28" rx="14" fill="#262626" stroke="#2A2A2A"/>
+    <rect x="180" y="220" width="140" height="28" rx="14" fill="none" stroke="#18B978" stroke-dasharray="4 4"/>
+    <!-- Blade -->
+    <path d="M 320 205 L 560 195 C 580 195, 590 205, 590 234 C 590 263, 580 273, 560 273 L 320 263 Z" fill="#8c6239" stroke="#5a3d20" stroke-width="3"/>
+    <path d="M 330 215 L 550 208 L 550 260 L 330 253 Z" fill="#a67747"/>
+  </g>
+
+  <!-- Cricket Ball -->
+  <circle cx="580" cy="270" r="35" fill="#a32a2a" stroke="#ffffff" stroke-width="2"/>
+  <path d="M 555 255 Q 580 270, 605 285" stroke="#ffffff" stroke-width="3" stroke-dasharray="3 3" fill="none"/>
+
+  <!-- Trajectory Arc -->
+  <path d="M 120 380 Q 380 120, 580 270" fill="none" stroke="#18B978" stroke-width="3" stroke-dasharray="6 6"/>
+  <circle cx="250" cy="240" r="5" fill="#18B978"/>
+  <circle cx="420" cy="180" r="5" fill="#18B978"/>
+
+  <text x="40" y="50" font-family="monospace" font-size="12" fill="#18B978">TRAJECTORY ANALYSIS // TACTICAL TEMPO</text>
+</svg>
