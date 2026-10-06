@@ -23,9 +23,13 @@
     "@types/node": "^20.17.19",
     "@types/react": "^19.0.10",
     "@types/react-dom": "^19.0.4",
-    "eslint": "^9.20.1",
-    "eslint-config-next": "15.1.7",
+    "eslint": "^10.12.0",
+    "eslint-config-next": "^16.3.8",
     "tailwindcss": "^4.0.0",
     "typescript": "^5.7.3"
+  },
+  "allowScripts": {
+    "sharp": "true",
+    "unrs-resolver": "true"
   }
 }
